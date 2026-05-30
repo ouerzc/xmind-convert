@@ -2,6 +2,8 @@
 
 把现代 `.xmind` 文件在浏览器本地转换为 Markdown。
 
+在线访问：[https://ouerzc.github.io/xmind-convert/](https://ouerzc.github.io/xmind-convert/)
+
 ## 本地开发
 
 ```bash
