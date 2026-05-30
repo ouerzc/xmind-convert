@@ -1,0 +1,7 @@
+node_modules
+dist
+.playwright-mcp
+.superpowers
+*.local
+.DS_Store
+xmind-convert-smoke.png
